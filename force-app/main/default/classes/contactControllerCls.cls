@@ -14,4 +14,8 @@ public class contactControllerCls {
     public static String CricketWC(){
         return "India will win the T20 world cup";
     }
+
+    public static String WorldCup(){
+        return "Let the best wins";
+    }
 }
