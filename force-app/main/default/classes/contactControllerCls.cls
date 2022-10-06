@@ -26,4 +26,8 @@ public class contactControllerCls {
     public static String WorldCup(){
         return "Let the best team wins";
     }
+
+    public static String Close(){
+        return "Closing the case";
+    }
 }
