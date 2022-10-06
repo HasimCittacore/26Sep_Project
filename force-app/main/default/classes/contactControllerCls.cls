@@ -8,6 +8,10 @@ public class contactControllerCls {
     }
 
     public static String FootballWC(){
-        return "Countdown Started"
+        return "Countdown Started";
+    }
+
+    public static String CricketWC(){
+        return "India will win the T20 world cup";
     }
 }
