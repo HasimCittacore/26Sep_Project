@@ -30,4 +30,8 @@ public class contactControllerCls {
     public static String Close(){
         return "Closing the case";
     }
+    
+    public static String Meet_U_nxtYear(){
+        return "Lets have a new champion of the way";
+    }
 }
